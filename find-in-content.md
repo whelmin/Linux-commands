@@ -1,8 +1,8 @@
-- [Find content - 查找内容](#find-content---查找内容)
+- [Find in content - 在内容中查找关键字](#find-in-content---在内容中查找关键字)
   - [grep](#grep)
   - [wc](#wc)
   
-## Find content - 查找内容
+## Find in content - 在内容中查找关键字
 
 在 linux 中，我们会在某个文件中查找某些关键字来确定文件是否改动，或者统计某个关键词出现的次数。
 

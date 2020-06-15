@@ -1,6 +1,6 @@
-# network 查看网络相关信息
+# network 查看网络信息
 
-Netstat 命令用于显示各种**网络相关信息**，如网络连接，路由表，接口状态 (Interface Statistics)，masquerade 连接，多播成员 (Multicast Memberships) 等等。
+Netstat 命令用于显示各种**网络信息**，如网络连接，路由表，接口状态 (Interface Statistics)，masquerade 连接，多播成员 (Multicast Memberships) 等等。
 
 ## netstat
 
